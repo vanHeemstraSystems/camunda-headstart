@@ -20,5 +20,7 @@ $ docker run -d ‐‐name camunda -p 8080:8080 camunda/camunda-bpm-platform:run
 
 [Docker Instructions](https://docs.camunda.org/manual/latest/installation/docker/?__hstc=252030934.147812eae1d6e39e3329554164a413ce.1644772440934.1644772440934.1644772440934.1&__hssc=252030934.4.1644772440935&__hsfp=584605664)
 
+[Camuda BPM Examples on GitHub](https://github.com/camunda/camunda-bpm-examples).
+
 # 100 - Introduction
 
