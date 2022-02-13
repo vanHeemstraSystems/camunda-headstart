@@ -1,5 +1,5 @@
 FROM camunda/camunda-bpm-platform:run-latest
 
-EXPOSE 8080
+EXPOSE 80
 
-# open browser with url: http://localhost:8080/camunda-welcome/index.html
+# open browser with url: http://localhost:80/camunda-welcome/index.html
