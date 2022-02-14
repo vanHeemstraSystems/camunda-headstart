@@ -11,6 +11,8 @@ Presenter Bernd Ruecker at Github at https://github.com/berndruecker?tab=reposit
 
 Dockerhub for Camunda at https://hub.docker.com/r/camunda/camunda-bpm-platform/
 
+Camunda Podcasts at https://podcasts.apple.com/us/podcast/camunda-nation-podcast/id1478382505
+
 **Camunda: The Universal Process Orchestrator**
 Reinventing Process Automation for the Digital Enterprise
 
