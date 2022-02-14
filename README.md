@@ -7,7 +7,7 @@ Based on "[CamundaCon] Orchestrating Microservices from Modeling to Production" 
 
 Based on "[CamundaCon Live 2020.1] Microservices Orchestration and Integration using Workflow Automation" at https://vimeo.com/camunda
 
-Presenter Bernd Ruecker at https://github.com/berndruecker?tab=repositories
+Presenter Bernd Ruecker at https://github.com/berndruecker?tab=repositories and https://berndruecker.io/
 
 Dockerhub for Camunda at https://hub.docker.com/r/camunda/camunda-bpm-platform/
 
